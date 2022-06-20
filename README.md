@@ -26,3 +26,5 @@
  # build
  - npm i --save
  - npm start
+ # test-SETA
+ - Câu sắp xếp trong folder algorithm
